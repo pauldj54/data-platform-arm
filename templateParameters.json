@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+       "keyVaultName": {
+            "value": "kvdemosynapse02"
+        },
+        "workspaceName": {
+            "value": "workspacedemosynapse02"
+        },
+        "storageAccountName": {
+            "value": "sademosynapse02"
+        },
+        "sqlAdministratorLogin": {
+            "value": "sqladmin"
+        },
+        "sparkPoolName": {
+            "value": "sparkpool010522"
+        },
+        "sqlPoolName": {
+            "value": "sqlpool010522"
+        }
+    }
+}
