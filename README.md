@@ -5,5 +5,5 @@ This repo contains an ARM template and its parameter file to provision a simple 
 
 With this approach you can easily provision an environment for POCs or training exercises. 
 
-In this link you can see a video explaining how these files were created and how could be used: (video link)[https://youtu.be/gw0ySBR9r7M]
+In this link you can see a video explaining how these files were created and how could be used: [video link](https://youtu.be/gw0ySBR9r7M)
 
